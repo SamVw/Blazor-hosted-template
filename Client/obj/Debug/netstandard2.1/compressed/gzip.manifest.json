@@ -1,7 +1,7 @@
 {
   "FilesToCompress": [
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\qqztCZBkREN1xcrLfZPBE9I0w_XY2725gfuuZVFfsec=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\tOtsGVlPaVLX16hfnkXl2gA9hCTojfy8kA9RZakj7rY=.hash",
       "Source": "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\CookingTimer.Client.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/CookingTimer.Client.dll.gz"
     },
@@ -41,7 +41,7 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Runtime.CompilerServices.Unsafe.dll.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\OBWh2or_2mU6elwqPfmL72FBZVKl2WzTJ4L-IrKeXM4=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\EcDo-GQZkQrOT1Xd0jMPE3NwT5lsMq5DNsPxHVidLDQ=.hash",
       "Source": "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Bcl.AsyncInterfaces.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Bcl.AsyncInterfaces.dll.gz"
     },
@@ -191,9 +191,39 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Primitives.dll.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\LA877Lxz3jW-a4G6YWg7u3Wet2Aw0JwAfXKScNehO6o=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\AkrEIUeG2y3AZb_bU6iY0ePzZVGH6y8DynMtxHmNWgU=.hash",
       "Source": "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\CookingTimer.Shared.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/CookingTimer.Shared.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\fuDHEKCRLHaKd9z3ghw5GMczZG77h0G6aixH1LvYp84=.hash",
+      "Source": "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.Identity.Stores.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Identity.Stores.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\KTiC0KtbgkdUzVg1lYO2Hcldk2wYVTZ5re6WUgMNFoA=.hash",
+      "Source": "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.Identity.Core.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Identity.Core.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\tmnkCmP9OzLUkpQ3LP7PRosi7gt5pyfEZCM6aqAokFI=.hash",
+      "Source": "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.ComponentModel.Annotations.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.ComponentModel.Annotations.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\LIfCYwg_PHltTK4z3EnbSkA7m2cn8JS4jHVthdKrDF8=.hash",
+      "Source": "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.ComponentModel.DataAnnotations.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.ComponentModel.DataAnnotations.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\4dz1OueJl0CJmkFdLt0gGDzHmRIsiDZsSzQ3G07F_oM=.hash",
+      "Source": "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\begqAwekY_XfS_AaQxw8Ze_aToMiwUPaCmpY0d5LxRg=.hash",
+      "Source": "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.AspNetCore.Cryptography.Internal.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Cryptography.Internal.dll.gz"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\4NUQ26HmvXRi8smc0jz9940OUECDLQnoMWQLrMLe0ok=.hash",
@@ -214,16 +244,6 @@
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\m7Q_cF5-ji3OMfdGlCuE8pQ-iM_kxNHLq-IEWVvIaOg=.hash",
       "Source": "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.AspNetCore.Components.Forms.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Components.Forms.dll.gz"
-    },
-    {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\tmnkCmP9OzLUkpQ3LP7PRosi7gt5pyfEZCM6aqAokFI=.hash",
-      "Source": "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.ComponentModel.Annotations.dll",
-      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.ComponentModel.Annotations.dll.gz"
-    },
-    {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\LIfCYwg_PHltTK4z3EnbSkA7m2cn8JS4jHVthdKrDF8=.hash",
-      "Source": "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.ComponentModel.DataAnnotations.dll",
-      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.ComponentModel.DataAnnotations.dll.gz"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\PEg9ghiKSWBTX0jq8pFDvv2Yvw92Y8W0ELtWrSE4fhA=.hash",
@@ -291,12 +311,12 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\l47C8xFyZSxCtHZ6QhaY4shqTpRPVguY4usEod4HfKU=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\IG8EPUMzFscOpC5rWGYGSZSYJKTjC1GhgQnhroKnA0g=.hash",
       "Source": "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\CookingTimer.Client.pdb",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/CookingTimer.Client.pdb.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\b0gs6qOx15NVMZ-KqWLXZHv9WgT-PODA0wK-DtSvlvw=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\VVRRZuM2CzwMUZUhFUd0xn0hzZlSAI57Al3MrX2Sb8c=.hash",
       "Source": "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\CookingTimer.Shared.pdb",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/CookingTimer.Shared.pdb.gz"
     },
@@ -321,12 +341,12 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.webassembly.js.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\1MQ4Mk0qDmUDH4BznHhMMEUJUlA057V9-oETD1SDZuU=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\Y6uonfJpZAfJRcBsdYcRApxiOLjlohO4iqtutvsYY1k=.hash",
       "Source": "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\Client\\obj\\Debug\\netstandard2.1\\blazor\\blazor.boot.json",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.boot.json.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\xATv3x55JWxP2ZGo4gfDZkwuntjthY_jHWKFgFq7N7U=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\9lMmgvu6eKzBgJwu2l7Zq7XC0SXu4LDFaOVKBgWTDm0=.hash",
       "Source": "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\Client\\obj\\Debug\\netstandard2.1\\blazor\\service-worker-assets.js",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\service-worker-assets.js.gz"
     }

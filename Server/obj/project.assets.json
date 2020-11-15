@@ -1941,9 +1941,44 @@
           "bin/placeholder/CookingTimer.Client.dll": {}
         }
       },
+      "CookingTimer.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "CookingTimer.Shared": "1.0.0",
+          "Microsoft.AspNetCore.ApiAuthorization.IdentityServer": "3.1.6",
+          "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": "3.1.6",
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "3.1.6",
+          "Microsoft.EntityFrameworkCore.SqlServer": "3.1.6",
+          "Microsoft.EntityFrameworkCore.Tools": "3.1.6"
+        },
+        "compile": {
+          "bin/placeholder/CookingTimer.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CookingTimer.Data.dll": {}
+        }
+      },
+      "CookingTimer.ServiceLayer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "CookingTimer.Data": "1.0.0",
+          "CookingTimer.Shared": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CookingTimer.ServiceLayer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CookingTimer.ServiceLayer.dll": {}
+        }
+      },
       "CookingTimer.Shared/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "3.1.6"
+        },
         "compile": {
           "bin/placeholder/CookingTimer.Shared.dll": {}
         },
@@ -6767,6 +6802,16 @@
       "path": "../Client/CookingTimer.Client.csproj",
       "msbuildProject": "../Client/CookingTimer.Client.csproj"
     },
+    "CookingTimer.Data/1.0.0": {
+      "type": "project",
+      "path": "../Data/CookingTimer.Data.csproj",
+      "msbuildProject": "../Data/CookingTimer.Data.csproj"
+    },
+    "CookingTimer.ServiceLayer/1.0.0": {
+      "type": "project",
+      "path": "../ServiceLayer/CookingTimer.ServiceLayer.csproj",
+      "msbuildProject": "../ServiceLayer/CookingTimer.ServiceLayer.csproj"
+    },
     "CookingTimer.Shared/1.0.0": {
       "type": "project",
       "path": "../Shared/CookingTimer.Shared.csproj",
@@ -6776,6 +6821,8 @@
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "CookingTimer.Client >= 1.0.0",
+      "CookingTimer.Data >= 1.0.0",
+      "CookingTimer.ServiceLayer >= 1.0.0",
       "CookingTimer.Shared >= 1.0.0",
       "Microsoft.AspNetCore.ApiAuthorization.IdentityServer >= 3.1.6",
       "Microsoft.AspNetCore.Components.WebAssembly.Server >= 3.2.1",
@@ -6814,6 +6861,12 @@
           "projectReferences": {
             "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\Client\\CookingTimer.Client.csproj": {
               "projectPath": "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\Client\\CookingTimer.Client.csproj"
+            },
+            "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\Data\\CookingTimer.Data.csproj": {
+              "projectPath": "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\Data\\CookingTimer.Data.csproj"
+            },
+            "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\ServiceLayer\\CookingTimer.ServiceLayer.csproj": {
+              "projectPath": "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\ServiceLayer\\CookingTimer.ServiceLayer.csproj"
             },
             "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\Shared\\CookingTimer.Shared.csproj": {
               "projectPath": "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\Shared\\CookingTimer.Shared.csproj"

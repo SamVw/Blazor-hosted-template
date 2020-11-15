@@ -25,6 +25,8 @@
       "CookingTimer.Server/1.0.0": {
         "dependencies": {
           "CookingTimer.Client": "1.0.0",
+          "CookingTimer.Data": "1.0.0",
+          "CookingTimer.ServiceLayer": "1.0.0",
           "CookingTimer.Shared": "1.0.0",
           "Microsoft.AspNetCore.ApiAuthorization.IdentityServer": "3.1.6",
           "Microsoft.AspNetCore.Components.WebAssembly.Server": "3.2.1",
@@ -1877,7 +1879,38 @@
           "CookingTimer.Client.dll": {}
         }
       },
+      "CookingTimer.Data/1.0.0": {
+        "dependencies": {
+          "CookingTimer.Shared": "1.0.0",
+          "Microsoft.AspNetCore.ApiAuthorization.IdentityServer": "3.1.6",
+          "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": "3.1.6",
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "3.1.6",
+          "Microsoft.EntityFrameworkCore.SqlServer": "3.1.6",
+          "Microsoft.EntityFrameworkCore.Tools": "3.1.6"
+        },
+        "runtime": {
+          "CookingTimer.Data.dll": {}
+        },
+        "compile": {
+          "CookingTimer.Data.dll": {}
+        }
+      },
+      "CookingTimer.ServiceLayer/1.0.0": {
+        "dependencies": {
+          "CookingTimer.Data": "1.0.0",
+          "CookingTimer.Shared": "1.0.0"
+        },
+        "runtime": {
+          "CookingTimer.ServiceLayer.dll": {}
+        },
+        "compile": {
+          "CookingTimer.ServiceLayer.dll": {}
+        }
+      },
       "CookingTimer.Shared/1.0.0": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "3.1.6"
+        },
         "runtime": {
           "CookingTimer.Shared.dll": {}
         },
@@ -4346,6 +4379,16 @@
       "hashPath": "system.xml.xmlserializer.4.3.0.nupkg.sha512"
     },
     "CookingTimer.Client/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CookingTimer.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CookingTimer.ServiceLayer/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

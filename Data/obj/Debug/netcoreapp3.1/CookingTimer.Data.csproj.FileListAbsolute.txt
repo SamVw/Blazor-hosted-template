@@ -1,0 +1,15 @@
+C:\Users\samva\Documents\projects\CookingTimer\Data\obj\Debug\netcoreapp3.1\CookingTimer.Data.csprojAssemblyReference.cache
+C:\Users\samva\Documents\projects\CookingTimer\Data\obj\Debug\netcoreapp3.1\CookingTimer.Data.AssemblyInfoInputs.cache
+C:\Users\samva\Documents\projects\CookingTimer\Data\obj\Debug\netcoreapp3.1\CookingTimer.Data.AssemblyInfo.cs
+C:\Users\samva\Documents\projects\CookingTimer\Data\obj\Debug\netcoreapp3.1\CookingTimer.Data.csproj.CoreCompileInputs.cache
+C:\Users\samva\Documents\projects\CookingTimer\Data\bin\Debug\netcoreapp3.1\CookingTimer.Data.deps.json
+C:\Users\samva\Documents\projects\CookingTimer\Data\bin\Debug\netcoreapp3.1\CookingTimer.Data.runtimeconfig.json
+C:\Users\samva\Documents\projects\CookingTimer\Data\bin\Debug\netcoreapp3.1\CookingTimer.Data.runtimeconfig.dev.json
+C:\Users\samva\Documents\projects\CookingTimer\Data\bin\Debug\netcoreapp3.1\CookingTimer.Data.dll
+C:\Users\samva\Documents\projects\CookingTimer\Data\bin\Debug\netcoreapp3.1\CookingTimer.Data.pdb
+C:\Users\samva\Documents\projects\CookingTimer\Data\bin\Debug\netcoreapp3.1\CookingTimer.Shared.dll
+C:\Users\samva\Documents\projects\CookingTimer\Data\bin\Debug\netcoreapp3.1\CookingTimer.Shared.pdb
+C:\Users\samva\Documents\projects\CookingTimer\Data\obj\Debug\netcoreapp3.1\CookingTimer.Data.csproj.CopyComplete
+C:\Users\samva\Documents\projects\CookingTimer\Data\obj\Debug\netcoreapp3.1\CookingTimer.Data.dll
+C:\Users\samva\Documents\projects\CookingTimer\Data\obj\Debug\netcoreapp3.1\CookingTimer.Data.pdb
+C:\Users\samva\Documents\projects\CookingTimer\Data\obj\Debug\netcoreapp3.1\CookingTimer.Data.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\samva\Documents\projects\CookingTimer\ServiceLayer\bin\Debug\netcoreapp3.1\CookingTimer.ServiceLayer.deps.json
+C:\Users\samva\Documents\projects\CookingTimer\ServiceLayer\bin\Debug\netcoreapp3.1\CookingTimer.ServiceLayer.dll
+C:\Users\samva\Documents\projects\CookingTimer\ServiceLayer\bin\Debug\netcoreapp3.1\CookingTimer.ServiceLayer.pdb
+C:\Users\samva\Documents\projects\CookingTimer\ServiceLayer\bin\Debug\netcoreapp3.1\CookingTimer.Data.dll
+C:\Users\samva\Documents\projects\CookingTimer\ServiceLayer\bin\Debug\netcoreapp3.1\CookingTimer.Shared.dll
+C:\Users\samva\Documents\projects\CookingTimer\ServiceLayer\bin\Debug\netcoreapp3.1\CookingTimer.Data.pdb
+C:\Users\samva\Documents\projects\CookingTimer\ServiceLayer\bin\Debug\netcoreapp3.1\CookingTimer.Shared.pdb
+C:\Users\samva\Documents\projects\CookingTimer\ServiceLayer\obj\Debug\netcoreapp3.1\CookingTimer.ServiceLayer.csprojAssemblyReference.cache
+C:\Users\samva\Documents\projects\CookingTimer\ServiceLayer\obj\Debug\netcoreapp3.1\CookingTimer.ServiceLayer.AssemblyInfoInputs.cache
+C:\Users\samva\Documents\projects\CookingTimer\ServiceLayer\obj\Debug\netcoreapp3.1\CookingTimer.ServiceLayer.AssemblyInfo.cs
+C:\Users\samva\Documents\projects\CookingTimer\ServiceLayer\obj\Debug\netcoreapp3.1\CookingTimer.ServiceLayer.csproj.CoreCompileInputs.cache
+C:\Users\samva\Documents\projects\CookingTimer\ServiceLayer\obj\Debug\netcoreapp3.1\CookingTimer.ServiceLayer.csproj.CopyComplete
+C:\Users\samva\Documents\projects\CookingTimer\ServiceLayer\obj\Debug\netcoreapp3.1\CookingTimer.ServiceLayer.dll
+C:\Users\samva\Documents\projects\CookingTimer\ServiceLayer\obj\Debug\netcoreapp3.1\CookingTimer.ServiceLayer.pdb

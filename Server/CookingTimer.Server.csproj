@@ -12,6 +12,8 @@
   <ItemGroup>
     <ProjectReference Include="..\Client\CookingTimer.Client.csproj" />
     <ProjectReference Include="..\Shared\CookingTimer.Shared.csproj" />
+    <ProjectReference Include="..\ServiceLayer\CookingTimer.ServiceLayer.csproj" />
+    <ProjectReference Include="..\Data\CookingTimer.Data.csproj" />
   </ItemGroup>
 
   <ItemGroup>

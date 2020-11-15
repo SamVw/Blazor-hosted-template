@@ -1,0 +1,9 @@
+C:\Users\samva\Documents\projects\CookingTimer\ServiceLayer\bin\Debug\netstandard2.1\CookingTimer.ServiceLayer.deps.json
+C:\Users\samva\Documents\projects\CookingTimer\ServiceLayer\bin\Debug\netstandard2.1\CookingTimer.ServiceLayer.dll
+C:\Users\samva\Documents\projects\CookingTimer\ServiceLayer\bin\Debug\netstandard2.1\CookingTimer.ServiceLayer.pdb
+C:\Users\samva\Documents\projects\CookingTimer\ServiceLayer\obj\Debug\netstandard2.1\CookingTimer.ServiceLayer.csprojAssemblyReference.cache
+C:\Users\samva\Documents\projects\CookingTimer\ServiceLayer\obj\Debug\netstandard2.1\CookingTimer.ServiceLayer.AssemblyInfoInputs.cache
+C:\Users\samva\Documents\projects\CookingTimer\ServiceLayer\obj\Debug\netstandard2.1\CookingTimer.ServiceLayer.AssemblyInfo.cs
+C:\Users\samva\Documents\projects\CookingTimer\ServiceLayer\obj\Debug\netstandard2.1\CookingTimer.ServiceLayer.csproj.CoreCompileInputs.cache
+C:\Users\samva\Documents\projects\CookingTimer\ServiceLayer\obj\Debug\netstandard2.1\CookingTimer.ServiceLayer.dll
+C:\Users\samva\Documents\projects\CookingTimer\ServiceLayer\obj\Debug\netstandard2.1\CookingTimer.ServiceLayer.pdb

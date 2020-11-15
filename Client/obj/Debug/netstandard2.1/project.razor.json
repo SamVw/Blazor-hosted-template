@@ -8,154 +8,154 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
-        "HashCode": 1127105659,
+        "HashCode": -152337674,
         "Kind": "Components.Component",
-        "Name": "CookingTimer.Client.Pages.Authentication",
+        "Name": "CookingTimer.Client.App",
         "AssemblyName": "CookingTimer.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Authentication"
+            "TagName": "App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "CookingTimer.Client.App"
+        }
+      },
+      {
+        "HashCode": -2069654845,
+        "Kind": "Components.Component",
+        "Name": "CookingTimer.Client.App",
+        "AssemblyName": "CookingTimer.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "CookingTimer.Client.App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "CookingTimer.Client.App",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -4231172,
+        "Kind": "Components.Component",
+        "Name": "CookingTimer.Client.Shared.RedirectToLogin",
+        "AssemblyName": "CookingTimer.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "RedirectToLogin"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "CookingTimer.Client.Shared.RedirectToLogin"
+        }
+      },
+      {
+        "HashCode": -1350603413,
+        "Kind": "Components.Component",
+        "Name": "CookingTimer.Client.Shared.RedirectToLogin",
+        "AssemblyName": "CookingTimer.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "CookingTimer.Client.Shared.RedirectToLogin"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "CookingTimer.Client.Shared.RedirectToLogin",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1705636827,
+        "Kind": "Components.Component",
+        "Name": "CookingTimer.Client.Shared.SurveyPrompt",
+        "AssemblyName": "CookingTimer.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SurveyPrompt"
           }
         ],
         "BoundAttributes": [
           {
             "Kind": "Components.Component",
-            "Name": "Action",
+            "Name": "Title",
             "TypeName": "System.String",
             "Metadata": {
-              "Common.PropertyName": "Action"
+              "Common.PropertyName": "Title"
             }
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "CookingTimer.Client.Pages.Authentication"
+          "Common.TypeName": "CookingTimer.Client.Shared.SurveyPrompt"
         }
       },
       {
-        "HashCode": 557851406,
+        "HashCode": -1136179014,
         "Kind": "Components.Component",
-        "Name": "CookingTimer.Client.Pages.Authentication",
+        "Name": "CookingTimer.Client.Shared.SurveyPrompt",
         "AssemblyName": "CookingTimer.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "CookingTimer.Client.Pages.Authentication"
+            "TagName": "CookingTimer.Client.Shared.SurveyPrompt"
           }
         ],
         "BoundAttributes": [
           {
             "Kind": "Components.Component",
-            "Name": "Action",
+            "Name": "Title",
             "TypeName": "System.String",
             "Metadata": {
-              "Common.PropertyName": "Action"
+              "Common.PropertyName": "Title"
             }
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "CookingTimer.Client.Pages.Authentication",
+          "Common.TypeName": "CookingTimer.Client.Shared.SurveyPrompt",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
       {
-        "HashCode": 343977994,
+        "HashCode": -1874288115,
         "Kind": "Components.Component",
-        "Name": "CookingTimer.Client.Pages.Counter",
+        "Name": "CookingTimer.Client.Shared.NavMenu",
         "AssemblyName": "CookingTimer.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Counter"
+            "TagName": "NavMenu"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "CookingTimer.Client.Pages.Counter"
+          "Common.TypeName": "CookingTimer.Client.Shared.NavMenu"
         }
       },
       {
-        "HashCode": -655767553,
+        "HashCode": 298957011,
         "Kind": "Components.Component",
-        "Name": "CookingTimer.Client.Pages.Counter",
+        "Name": "CookingTimer.Client.Shared.NavMenu",
         "AssemblyName": "CookingTimer.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "CookingTimer.Client.Pages.Counter"
+            "TagName": "CookingTimer.Client.Shared.NavMenu"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "CookingTimer.Client.Pages.Counter",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1651079079,
-        "Kind": "Components.Component",
-        "Name": "CookingTimer.Client.Pages.FetchData",
-        "AssemblyName": "CookingTimer.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "CookingTimer.Client.Pages.FetchData"
-        }
-      },
-      {
-        "HashCode": -107875648,
-        "Kind": "Components.Component",
-        "Name": "CookingTimer.Client.Pages.FetchData",
-        "AssemblyName": "CookingTimer.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "CookingTimer.Client.Pages.FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "CookingTimer.Client.Pages.FetchData",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1136152172,
-        "Kind": "Components.Component",
-        "Name": "CookingTimer.Client.Pages.Index",
-        "AssemblyName": "CookingTimer.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "CookingTimer.Client.Pages.Index"
-        }
-      },
-      {
-        "HashCode": 1962858554,
-        "Kind": "Components.Component",
-        "Name": "CookingTimer.Client.Pages.Index",
-        "AssemblyName": "CookingTimer.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "CookingTimer.Client.Pages.Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "CookingTimer.Client.Pages.Index",
+          "Common.TypeName": "CookingTimer.Client.Shared.NavMenu",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -289,154 +289,154 @@
         }
       },
       {
-        "HashCode": -1874288115,
+        "HashCode": 343977994,
         "Kind": "Components.Component",
-        "Name": "CookingTimer.Client.Shared.NavMenu",
+        "Name": "CookingTimer.Client.Pages.Counter",
         "AssemblyName": "CookingTimer.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "NavMenu"
+            "TagName": "Counter"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "CookingTimer.Client.Shared.NavMenu"
+          "Common.TypeName": "CookingTimer.Client.Pages.Counter"
         }
       },
       {
-        "HashCode": 298957011,
+        "HashCode": -655767553,
         "Kind": "Components.Component",
-        "Name": "CookingTimer.Client.Shared.NavMenu",
+        "Name": "CookingTimer.Client.Pages.Counter",
         "AssemblyName": "CookingTimer.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "CookingTimer.Client.Shared.NavMenu"
+            "TagName": "CookingTimer.Client.Pages.Counter"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "CookingTimer.Client.Shared.NavMenu",
+          "Common.TypeName": "CookingTimer.Client.Pages.Counter",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
       {
-        "HashCode": -4231172,
+        "HashCode": -1651079079,
         "Kind": "Components.Component",
-        "Name": "CookingTimer.Client.Shared.RedirectToLogin",
+        "Name": "CookingTimer.Client.Pages.FetchData",
         "AssemblyName": "CookingTimer.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "RedirectToLogin"
+            "TagName": "FetchData"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "CookingTimer.Client.Shared.RedirectToLogin"
+          "Common.TypeName": "CookingTimer.Client.Pages.FetchData"
         }
       },
       {
-        "HashCode": -1350603413,
+        "HashCode": -107875648,
         "Kind": "Components.Component",
-        "Name": "CookingTimer.Client.Shared.RedirectToLogin",
+        "Name": "CookingTimer.Client.Pages.FetchData",
         "AssemblyName": "CookingTimer.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "CookingTimer.Client.Shared.RedirectToLogin"
+            "TagName": "CookingTimer.Client.Pages.FetchData"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "CookingTimer.Client.Shared.RedirectToLogin",
+          "Common.TypeName": "CookingTimer.Client.Pages.FetchData",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
       {
-        "HashCode": 1705636827,
+        "HashCode": 1127105659,
         "Kind": "Components.Component",
-        "Name": "CookingTimer.Client.Shared.SurveyPrompt",
+        "Name": "CookingTimer.Client.Pages.Authentication",
         "AssemblyName": "CookingTimer.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "SurveyPrompt"
+            "TagName": "Authentication"
           }
         ],
         "BoundAttributes": [
           {
             "Kind": "Components.Component",
-            "Name": "Title",
+            "Name": "Action",
             "TypeName": "System.String",
             "Metadata": {
-              "Common.PropertyName": "Title"
+              "Common.PropertyName": "Action"
             }
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "CookingTimer.Client.Shared.SurveyPrompt"
+          "Common.TypeName": "CookingTimer.Client.Pages.Authentication"
         }
       },
       {
-        "HashCode": -1136179014,
+        "HashCode": 557851406,
         "Kind": "Components.Component",
-        "Name": "CookingTimer.Client.Shared.SurveyPrompt",
+        "Name": "CookingTimer.Client.Pages.Authentication",
         "AssemblyName": "CookingTimer.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "CookingTimer.Client.Shared.SurveyPrompt"
+            "TagName": "CookingTimer.Client.Pages.Authentication"
           }
         ],
         "BoundAttributes": [
           {
             "Kind": "Components.Component",
-            "Name": "Title",
+            "Name": "Action",
             "TypeName": "System.String",
             "Metadata": {
-              "Common.PropertyName": "Title"
+              "Common.PropertyName": "Action"
             }
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "CookingTimer.Client.Shared.SurveyPrompt",
+          "Common.TypeName": "CookingTimer.Client.Pages.Authentication",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
       {
-        "HashCode": -152337674,
+        "HashCode": -1136152172,
         "Kind": "Components.Component",
-        "Name": "CookingTimer.Client.App",
+        "Name": "CookingTimer.Client.Pages.Index",
         "AssemblyName": "CookingTimer.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "App"
+            "TagName": "Index"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "CookingTimer.Client.App"
+          "Common.TypeName": "CookingTimer.Client.Pages.Index"
         }
       },
       {
-        "HashCode": -2069654845,
+        "HashCode": 1962858554,
         "Kind": "Components.Component",
-        "Name": "CookingTimer.Client.App",
+        "Name": "CookingTimer.Client.Pages.Index",
         "AssemblyName": "CookingTimer.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "CookingTimer.Client.App"
+            "TagName": "CookingTimer.Client.Pages.Index"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "CookingTimer.Client.App",
+          "Common.TypeName": "CookingTimer.Client.Pages.Index",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },

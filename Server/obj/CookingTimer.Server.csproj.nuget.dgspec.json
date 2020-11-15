@@ -88,6 +88,84 @@
         }
       }
     },
+    "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\Data\\CookingTimer.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\Data\\CookingTimer.Data.csproj",
+        "projectName": "CookingTimer.Data",
+        "projectPath": "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\Data\\CookingTimer.Data.csproj",
+        "packagesPath": "C:\\Users\\samva\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\samva\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\Shared\\CookingTimer.Shared.csproj": {
+                "projectPath": "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\Shared\\CookingTimer.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.ApiAuthorization.IdentityServer": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\Server\\CookingTimer.Server.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -113,6 +191,12 @@
             "projectReferences": {
               "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\Client\\CookingTimer.Client.csproj": {
                 "projectPath": "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\Client\\CookingTimer.Client.csproj"
+              },
+              "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\Data\\CookingTimer.Data.csproj": {
+                "projectPath": "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\Data\\CookingTimer.Data.csproj"
+              },
+              "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\ServiceLayer\\CookingTimer.ServiceLayer.csproj": {
+                "projectPath": "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\ServiceLayer\\CookingTimer.ServiceLayer.csproj"
               },
               "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\Shared\\CookingTimer.Shared.csproj": {
                 "projectPath": "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\Shared\\CookingTimer.Shared.csproj"
@@ -180,6 +264,65 @@
         }
       }
     },
+    "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\ServiceLayer\\CookingTimer.ServiceLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\ServiceLayer\\CookingTimer.ServiceLayer.csproj",
+        "projectName": "CookingTimer.ServiceLayer",
+        "projectPath": "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\ServiceLayer\\CookingTimer.ServiceLayer.csproj",
+        "packagesPath": "C:\\Users\\samva\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\ServiceLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\samva\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\Data\\CookingTimer.Data.csproj": {
+                "projectPath": "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\Data\\CookingTimer.Data.csproj"
+              },
+              "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\Shared\\CookingTimer.Shared.csproj": {
+                "projectPath": "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\Shared\\CookingTimer.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\Shared\\CookingTimer.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -213,6 +356,12 @@
       },
       "frameworks": {
         "netstandard2.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

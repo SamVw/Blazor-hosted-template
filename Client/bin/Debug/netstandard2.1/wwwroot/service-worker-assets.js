@@ -69,7 +69,7 @@
       "url": "manifest.json"
     },
     {
-      "hash": "sha256-qqztCZBkREN1xcrLfZPBE9I0w+XY2725gfuuZVFfsec=",
+      "hash": "sha256-tOtsGVlPaVLX16hfnkXl2gA9hCTojfy8kA9RZakj7rY=",
       "url": "_framework\/_bin\/CookingTimer.Client.dll"
     },
     {
@@ -101,7 +101,7 @@
       "url": "_framework\/_bin\/System.Runtime.CompilerServices.Unsafe.dll"
     },
     {
-      "hash": "sha256-OBWh2or+2mU6elwqPfmL72FBZVKl2WzTJ4L\/IrKeXM4=",
+      "hash": "sha256-EcDo\/GQZkQrOT1Xd0jMPE3NwT5lsMq5DNsPxHVidLDQ=",
       "url": "_framework\/_bin\/Microsoft.Bcl.AsyncInterfaces.dll"
     },
     {
@@ -221,8 +221,32 @@
       "url": "_framework\/_bin\/Microsoft.Extensions.Primitives.dll"
     },
     {
-      "hash": "sha256-LA877Lxz3jW\/a4G6YWg7u3Wet2Aw0JwAfXKScNehO6o=",
+      "hash": "sha256-AkrEIUeG2y3AZb+bU6iY0ePzZVGH6y8DynMtxHmNWgU=",
       "url": "_framework\/_bin\/CookingTimer.Shared.dll"
+    },
+    {
+      "hash": "sha256-fuDHEKCRLHaKd9z3ghw5GMczZG77h0G6aixH1LvYp84=",
+      "url": "_framework\/_bin\/Microsoft.Extensions.Identity.Stores.dll"
+    },
+    {
+      "hash": "sha256-KTiC0KtbgkdUzVg1lYO2Hcldk2wYVTZ5re6WUgMNFoA=",
+      "url": "_framework\/_bin\/Microsoft.Extensions.Identity.Core.dll"
+    },
+    {
+      "hash": "sha256-tmnkCmP9OzLUkpQ3LP7PRosi7gt5pyfEZCM6aqAokFI=",
+      "url": "_framework\/_bin\/System.ComponentModel.Annotations.dll"
+    },
+    {
+      "hash": "sha256-LIfCYwg+PHltTK4z3EnbSkA7m2cn8JS4jHVthdKrDF8=",
+      "url": "_framework\/_bin\/System.ComponentModel.DataAnnotations.dll"
+    },
+    {
+      "hash": "sha256-4dz1OueJl0CJmkFdLt0gGDzHmRIsiDZsSzQ3G07F+oM=",
+      "url": "_framework\/_bin\/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll"
+    },
+    {
+      "hash": "sha256-begqAwekY+XfS+AaQxw8Ze+aToMiwUPaCmpY0d5LxRg=",
+      "url": "_framework\/_bin\/Microsoft.AspNetCore.Cryptography.Internal.dll"
     },
     {
       "hash": "sha256-4NUQ26HmvXRi8smc0jz9940OUECDLQnoMWQLrMLe0ok=",
@@ -239,14 +263,6 @@
     {
       "hash": "sha256-m7Q+cF5\/ji3OMfdGlCuE8pQ\/iM+kxNHLq\/IEWVvIaOg=",
       "url": "_framework\/_bin\/Microsoft.AspNetCore.Components.Forms.dll"
-    },
-    {
-      "hash": "sha256-tmnkCmP9OzLUkpQ3LP7PRosi7gt5pyfEZCM6aqAokFI=",
-      "url": "_framework\/_bin\/System.ComponentModel.Annotations.dll"
-    },
-    {
-      "hash": "sha256-LIfCYwg+PHltTK4z3EnbSkA7m2cn8JS4jHVthdKrDF8=",
-      "url": "_framework\/_bin\/System.ComponentModel.DataAnnotations.dll"
     },
     {
       "hash": "sha256-PEg9ghiKSWBTX0jq8pFDvv2Yvw92Y8W0ELtWrSE4fhA=",
@@ -301,11 +317,11 @@
       "url": "_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll"
     },
     {
-      "hash": "sha256-l47C8xFyZSxCtHZ6QhaY4shqTpRPVguY4usEod4HfKU=",
+      "hash": "sha256-IG8EPUMzFscOpC5rWGYGSZSYJKTjC1GhgQnhroKnA0g=",
       "url": "_framework\/_bin\/CookingTimer.Client.pdb"
     },
     {
-      "hash": "sha256-b0gs6qOx15NVMZ\/KqWLXZHv9WgT\/PODA0wK\/DtSvlvw=",
+      "hash": "sha256-VVRRZuM2CzwMUZUhFUd0xn0hzZlSAI57Al3MrX2Sb8c=",
       "url": "_framework\/_bin\/CookingTimer.Shared.pdb"
     },
     {
@@ -325,9 +341,9 @@
       "url": "_framework\/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-1MQ4Mk0qDmUDH4BznHhMMEUJUlA057V9\/oETD1SDZuU=",
+      "hash": "sha256-Y6uonfJpZAfJRcBsdYcRApxiOLjlohO4iqtutvsYY1k=",
       "url": "_framework\/blazor.boot.json"
     }
   ],
-  "version": "4swcoIzm"
+  "version": "gBgFC79g"
 };
