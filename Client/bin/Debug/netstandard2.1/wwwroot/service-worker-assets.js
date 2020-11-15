@@ -69,7 +69,7 @@
       "url": "manifest.json"
     },
     {
-      "hash": "sha256-tOtsGVlPaVLX16hfnkXl2gA9hCTojfy8kA9RZakj7rY=",
+      "hash": "sha256-0PlY9X24jTPduelQAqfbsMhT\/F6A\/npoOUb8ppQ8ssw=",
       "url": "_framework\/_bin\/CookingTimer.Client.dll"
     },
     {
@@ -221,7 +221,7 @@
       "url": "_framework\/_bin\/Microsoft.Extensions.Primitives.dll"
     },
     {
-      "hash": "sha256-AkrEIUeG2y3AZb+bU6iY0ePzZVGH6y8DynMtxHmNWgU=",
+      "hash": "sha256-acmWGbDBPAJqV4VJAevbMmXqwUdbSf+nfnIM4HEQ+mo=",
       "url": "_framework\/_bin\/CookingTimer.Shared.dll"
     },
     {
@@ -317,11 +317,11 @@
       "url": "_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll"
     },
     {
-      "hash": "sha256-IG8EPUMzFscOpC5rWGYGSZSYJKTjC1GhgQnhroKnA0g=",
+      "hash": "sha256-L2VNXVqnIjQLaXVEklSu\/SXDEC4SVImh3IGcjf89di0=",
       "url": "_framework\/_bin\/CookingTimer.Client.pdb"
     },
     {
-      "hash": "sha256-VVRRZuM2CzwMUZUhFUd0xn0hzZlSAI57Al3MrX2Sb8c=",
+      "hash": "sha256-0MYe5q51h0zwqUpAkrC1Lr1mKspZBA7Cb7OQ\/QreU9Q=",
       "url": "_framework\/_bin\/CookingTimer.Shared.pdb"
     },
     {
@@ -341,9 +341,9 @@
       "url": "_framework\/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-Y6uonfJpZAfJRcBsdYcRApxiOLjlohO4iqtutvsYY1k=",
+      "hash": "sha256-BxAd60YrJDp9nDVgHupQiLf\/+0ICslEYzycmSTIUk3c=",
       "url": "_framework\/blazor.boot.json"
     }
   ],
-  "version": "gBgFC79g"
+  "version": "QJcZUUBS"
 };

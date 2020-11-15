@@ -11,8 +11,8 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using System.Linq;
-using CookingTimer.Server.Models;
 using CookingTimer.Data.Data;
+using CookingTimer.Shared.Models;
 
 namespace CookingTimer.Server
 {

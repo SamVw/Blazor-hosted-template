@@ -425,16 +425,11 @@ C:\Users\samva\Documents\projects\CookingTimer\Client\bin\Debug\netstandard2.1\M
 C:\Users\samva\Documents\projects\CookingTimer\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Identity.Stores.dll
 C:\Users\samva\Documents\projects\CookingTimer\Client\bin\Debug\netstandard2.1\System.Collections.Immutable.dll
 C:\Users\samva\Documents\projects\CookingTimer\Client\bin\Debug\netstandard2.1\System.Diagnostics.DiagnosticSource.dll
-C:\Users\samva\Documents\projects\CookingTimer\Client\obj\Debug\netstandard2.1\integrity\tOtsGVlPaVLX16hfnkXl2gA9hCTojfy8kA9RZakj7rY=.hash
 C:\Users\samva\Documents\projects\CookingTimer\Client\obj\Debug\netstandard2.1\integrity\EcDo-GQZkQrOT1Xd0jMPE3NwT5lsMq5DNsPxHVidLDQ=.hash
-C:\Users\samva\Documents\projects\CookingTimer\Client\obj\Debug\netstandard2.1\integrity\AkrEIUeG2y3AZb_bU6iY0ePzZVGH6y8DynMtxHmNWgU=.hash
 C:\Users\samva\Documents\projects\CookingTimer\Client\obj\Debug\netstandard2.1\integrity\fuDHEKCRLHaKd9z3ghw5GMczZG77h0G6aixH1LvYp84=.hash
 C:\Users\samva\Documents\projects\CookingTimer\Client\obj\Debug\netstandard2.1\integrity\KTiC0KtbgkdUzVg1lYO2Hcldk2wYVTZ5re6WUgMNFoA=.hash
 C:\Users\samva\Documents\projects\CookingTimer\Client\obj\Debug\netstandard2.1\integrity\4dz1OueJl0CJmkFdLt0gGDzHmRIsiDZsSzQ3G07F_oM=.hash
 C:\Users\samva\Documents\projects\CookingTimer\Client\obj\Debug\netstandard2.1\integrity\begqAwekY_XfS_AaQxw8Ze_aToMiwUPaCmpY0d5LxRg=.hash
-C:\Users\samva\Documents\projects\CookingTimer\Client\obj\Debug\netstandard2.1\integrity\IG8EPUMzFscOpC5rWGYGSZSYJKTjC1GhgQnhroKnA0g=.hash
-C:\Users\samva\Documents\projects\CookingTimer\Client\obj\Debug\netstandard2.1\integrity\VVRRZuM2CzwMUZUhFUd0xn0hzZlSAI57Al3MrX2Sb8c=.hash
-C:\Users\samva\Documents\projects\CookingTimer\Client\obj\Debug\netstandard2.1\integrity\Y6uonfJpZAfJRcBsdYcRApxiOLjlohO4iqtutvsYY1k=.hash
 C:\Users\samva\Documents\projects\CookingTimer\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Identity.Stores.dll.gz
 C:\Users\samva\Documents\projects\CookingTimer\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Identity.Core.dll.gz
 C:\Users\samva\Documents\projects\CookingTimer\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll.gz
@@ -443,4 +438,9 @@ C:\Users\samva\Documents\projects\CookingTimer\Client\obj\Debug\netstandard2.1\c
 C:\Users\samva\Documents\projects\CookingTimer\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Identity.Core.dll.br
 C:\Users\samva\Documents\projects\CookingTimer\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll.br
 C:\Users\samva\Documents\projects\CookingTimer\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Cryptography.Internal.dll.br
-C:\Users\samva\Documents\projects\CookingTimer\Client\obj\Debug\netstandard2.1\integrity\9lMmgvu6eKzBgJwu2l7Zq7XC0SXu4LDFaOVKBgWTDm0=.hash
+C:\Users\samva\Documents\projects\CookingTimer\Client\obj\Debug\netstandard2.1\integrity\0PlY9X24jTPduelQAqfbsMhT-F6A-npoOUb8ppQ8ssw=.hash
+C:\Users\samva\Documents\projects\CookingTimer\Client\obj\Debug\netstandard2.1\integrity\acmWGbDBPAJqV4VJAevbMmXqwUdbSf_nfnIM4HEQ_mo=.hash
+C:\Users\samva\Documents\projects\CookingTimer\Client\obj\Debug\netstandard2.1\integrity\L2VNXVqnIjQLaXVEklSu-SXDEC4SVImh3IGcjf89di0=.hash
+C:\Users\samva\Documents\projects\CookingTimer\Client\obj\Debug\netstandard2.1\integrity\0MYe5q51h0zwqUpAkrC1Lr1mKspZBA7Cb7OQ-QreU9Q=.hash
+C:\Users\samva\Documents\projects\CookingTimer\Client\obj\Debug\netstandard2.1\integrity\BxAd60YrJDp9nDVgHupQiLf-_0ICslEYzycmSTIUk3c=.hash
+C:\Users\samva\Documents\projects\CookingTimer\Client\obj\Debug\netstandard2.1\integrity\hczj92AqnWjJN2kzY86wis-UG9YFLrFsibmDXsVx1to=.hash

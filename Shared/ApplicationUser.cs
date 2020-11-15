@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace CookingTimer.Server.Models
+namespace CookingTimer.Shared.Models
 {
     public class ApplicationUser : IdentityUser
     {
