@@ -1,0 +1,9 @@
+C:\Users\samva\Documents\projects\CookingTimer\Shared\bin\Debug\netstandard2.1\CookingTimer.Shared.deps.json
+C:\Users\samva\Documents\projects\CookingTimer\Shared\bin\Debug\netstandard2.1\CookingTimer.Shared.dll
+C:\Users\samva\Documents\projects\CookingTimer\Shared\bin\Debug\netstandard2.1\CookingTimer.Shared.pdb
+C:\Users\samva\Documents\projects\CookingTimer\Shared\obj\Debug\netstandard2.1\CookingTimer.Shared.csprojAssemblyReference.cache
+C:\Users\samva\Documents\projects\CookingTimer\Shared\obj\Debug\netstandard2.1\CookingTimer.Shared.AssemblyInfoInputs.cache
+C:\Users\samva\Documents\projects\CookingTimer\Shared\obj\Debug\netstandard2.1\CookingTimer.Shared.AssemblyInfo.cs
+C:\Users\samva\Documents\projects\CookingTimer\Shared\obj\Debug\netstandard2.1\CookingTimer.Shared.csproj.CoreCompileInputs.cache
+C:\Users\samva\Documents\projects\CookingTimer\Shared\obj\Debug\netstandard2.1\CookingTimer.Shared.dll
+C:\Users\samva\Documents\projects\CookingTimer\Shared\obj\Debug\netstandard2.1\CookingTimer.Shared.pdb

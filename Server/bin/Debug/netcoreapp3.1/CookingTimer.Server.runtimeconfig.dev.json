@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\samva\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\samva\\.nuget\\packages"
+    ]
+  }
+}
