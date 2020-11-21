@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6EK8lUPjvDDoKM+2M8F53qq3aTG5cE7IhCb92YWJBdj1lGpwBXC2VHS3UAvmbKwIz1n25NbdNAxC99vWKLD0eA==",
+  "dgSpecHash": "bOaqOObWRH9R10SQeF1+cIdf7kAj4uEaqaWhtbXiy17GWFcPAyjMD2Pg69EpzVWToSEdYdIS3QoxJFMCe/9MfA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\Tests\\CookingTimer.Tests.Integration\\CookingTimer.Tests.Integration.csproj",
+  "projectFilePath": "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\Tests\\Integration\\CookingTimer.Tests.Integration.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\samva\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\samva\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",

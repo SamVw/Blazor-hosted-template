@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\Tests\\CookingTimer.Tests.Integration\\CookingTimer.Tests.Integration.csproj": {}
+    "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\Tests\\Integration\\CookingTimer.Tests.Integration.csproj": {}
   },
   "projects": {
-    "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\Tests\\CookingTimer.Tests.Integration\\CookingTimer.Tests.Integration.csproj": {
+    "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\Tests\\Integration\\CookingTimer.Tests.Integration.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\Tests\\CookingTimer.Tests.Integration\\CookingTimer.Tests.Integration.csproj",
+        "projectUniqueName": "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\Tests\\Integration\\CookingTimer.Tests.Integration.csproj",
         "projectName": "CookingTimer.Tests.Integration",
-        "projectPath": "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\Tests\\CookingTimer.Tests.Integration\\CookingTimer.Tests.Integration.csproj",
+        "projectPath": "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\Tests\\Integration\\CookingTimer.Tests.Integration.csproj",
         "packagesPath": "C:\\Users\\samva\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\Tests\\CookingTimer.Tests.Integration\\obj\\",
+        "outputPath": "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\Tests\\Integration\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\samva\\AppData\\Roaming\\NuGet\\NuGet.Config",
