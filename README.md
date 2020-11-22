@@ -1,3 +1,15 @@
+# Template for a Blazor Hosted Application
+
+This project contains a template for a blazor hosted web app with integrated authentication.
+
+- Blazor UI
+- Server (Asp.Net WebApi)
+- Service layer
+- Data layer
+- UI tests
+- Unit tests
+- Integration tests
+
 
 # Run sql server locally with docker
 
