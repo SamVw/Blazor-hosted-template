@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CookingTimer.ServiceLayer
+namespace _BlazorHostedComplete.ServiceLayer
 {
     public class Class1
     {

@@ -1048,9 +1048,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\Shared\\CookingTimer.Shared.csproj",
-      "projectName": "CookingTimer.Shared",
-      "projectPath": "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\Shared\\CookingTimer.Shared.csproj",
+      "projectUniqueName": "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\Shared\\_BlazorHostedComplete.Shared.csproj",
+      "projectName": "_BlazorHostedComplete.Shared",
+      "projectPath": "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\Shared\\_BlazorHostedComplete.Shared.csproj",
       "packagesPath": "C:\\Users\\samva\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\Shared\\obj\\",
       "projectStyle": "PackageReference",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iuRu/edqiW62c91qpHanPznugnQhOUOD5RzFSSMDRg6Pf1QhU4AETQ6PM7M07EYPV1LSaOtFpi70JlR7WS5gOA==",
+  "dgSpecHash": "bzr8MZaiKrvmf2tbl/u7PRtfUrjHBpiebn9sQYCLAFZB0gdCDBgBhkC+AlZdtA/85eXTY4A+TaXbAPuMSLZeFA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\Data\\CookingTimer.Data.csproj",
+  "projectFilePath": "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\Data\\_BlazorHostedComplete.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\samva\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\samva\\.nuget\\packages\\identitymodel\\4.0.0\\identitymodel.4.0.0.nupkg.sha512",

@@ -3510,9 +3510,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\Tests\\Integration\\CookingTimer.Tests.Integration.csproj",
-      "projectName": "CookingTimer.Tests.Integration",
-      "projectPath": "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\Tests\\Integration\\CookingTimer.Tests.Integration.csproj",
+      "projectUniqueName": "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\Tests\\Integration\\_BlazorHostedComplete.Tests.Integration.csproj",
+      "projectName": "_BlazorHostedComplete.Tests.Integration",
+      "projectPath": "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\Tests\\Integration\\_BlazorHostedComplete.Tests.Integration.csproj",
       "packagesPath": "C:\\Users\\samva\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\Tests\\Integration\\obj\\",
       "projectStyle": "PackageReference",

@@ -1,8 +1,8 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <ItemGroup>
-    <ProjectReference Include="..\Data\CookingTimer.Data.csproj" />
-    <ProjectReference Include="..\Shared\CookingTimer.Shared.csproj" />
+    <ProjectReference Include="..\Data\_BlazorHostedComplete.Data.csproj" />
+    <ProjectReference Include="..\Shared\_BlazorHostedComplete.Shared.csproj" />
   </ItemGroup>
 
   <PropertyGroup>

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jWmRzpZpyl4NeG7vwrGKaHbbgsd223rbhFjxI1zu7wAu6Ed8uqdESMA1eWAdcJhJeJf5HhsVKFRJs6BlDrsqpw==",
+  "dgSpecHash": "uRqdTctSThlO6l+DRgbUZdbvP0+hVYCKJL2HBbR1CFM55rH7VzS62e19bP79dTM+cs6qABEJC7bI9iPTG3XPng==",
   "success": true,
-  "projectFilePath": "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\Shared\\CookingTimer.Shared.csproj",
+  "projectFilePath": "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\Shared\\_BlazorHostedComplete.Shared.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\samva\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.6\\microsoft.aspnetcore.cryptography.internal.3.1.6.nupkg.sha512",
     "C:\\Users\\samva\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.6\\microsoft.aspnetcore.cryptography.keyderivation.3.1.6.nupkg.sha512",

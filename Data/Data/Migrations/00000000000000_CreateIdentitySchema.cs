@@ -1,7 +1,7 @@
 ﻿using System;
 using Microsoft.EntityFrameworkCore.Migrations;
 
-namespace CookingTimer.Server.Data.Migrations
+namespace _BlazorHostedComplete.Server.Data.Migrations
 {
     public partial class CreateIdentitySchema : Migration
     {

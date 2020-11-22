@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace CookingTimer.Shared
+namespace _BlazorHostedComplete.Shared
 {
     public class WeatherForecast
     {

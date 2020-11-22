@@ -2810,34 +2810,34 @@
           "build/netcoreapp1.0/xunit.runner.visualstudio.props": {}
         }
       },
-      "CookingTimer.Client/1.0.0": {
+      "_BlazorHostedComplete.Client/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.1",
         "dependencies": {
-          "CookingTimer.Shared": "1.0.0",
           "Microsoft.AspNetCore.Components.WebAssembly": "3.2.1",
           "Microsoft.AspNetCore.Components.WebAssembly.Authentication": "3.2.1",
           "Microsoft.Extensions.Http": "3.1.6",
-          "System.Net.Http.Json": "3.2.0"
+          "System.Net.Http.Json": "3.2.0",
+          "_BlazorHostedComplete.Shared": "1.0.0"
         },
         "compile": {
-          "bin/placeholder/CookingTimer.Client.dll": {}
+          "bin/placeholder/_BlazorHostedComplete.Client.dll": {}
         },
         "runtime": {
-          "bin/placeholder/CookingTimer.Client.dll": {}
+          "bin/placeholder/_BlazorHostedComplete.Client.dll": {}
         }
       },
-      "CookingTimer.Shared/1.0.0": {
+      "_BlazorHostedComplete.Shared/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.1",
         "dependencies": {
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "3.1.6"
         },
         "compile": {
-          "bin/placeholder/CookingTimer.Shared.dll": {}
+          "bin/placeholder/_BlazorHostedComplete.Shared.dll": {}
         },
         "runtime": {
-          "bin/placeholder/CookingTimer.Shared.dll": {}
+          "bin/placeholder/_BlazorHostedComplete.Shared.dll": {}
         }
       }
     }
@@ -8350,21 +8350,21 @@
         "xunit.runner.visualstudio.nuspec"
       ]
     },
-    "CookingTimer.Client/1.0.0": {
+    "_BlazorHostedComplete.Client/1.0.0": {
       "type": "project",
-      "path": "../../Client/CookingTimer.Client.csproj",
-      "msbuildProject": "../../Client/CookingTimer.Client.csproj"
+      "path": "../../Client/_BlazorHostedComplete.Client.csproj",
+      "msbuildProject": "../../Client/_BlazorHostedComplete.Client.csproj"
     },
-    "CookingTimer.Shared/1.0.0": {
+    "_BlazorHostedComplete.Shared/1.0.0": {
       "type": "project",
-      "path": "../../Shared/CookingTimer.Shared.csproj",
-      "msbuildProject": "../../Shared/CookingTimer.Shared.csproj"
+      "path": "../../Shared/_BlazorHostedComplete.Shared.csproj",
+      "msbuildProject": "../../Shared/_BlazorHostedComplete.Shared.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "CookingTimer.Client >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 16.6.1",
+      "_BlazorHostedComplete.Client >= 1.0.0",
       "bunit.core >= 1.0.0-beta-11",
       "bunit.web >= 1.0.0-beta-11",
       "bunit.xunit >= 1.0.0-beta-11",
@@ -8378,9 +8378,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\Tests\\UI\\CookingTimer.Tests.UI.csproj",
-      "projectName": "CookingTimer.Tests.UI",
-      "projectPath": "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\Tests\\UI\\CookingTimer.Tests.UI.csproj",
+      "projectUniqueName": "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\Tests\\UI\\_BlazorHostedComplete.Tests.UI.csproj",
+      "projectName": "_BlazorHostedComplete.Tests.UI",
+      "projectPath": "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\Tests\\UI\\_BlazorHostedComplete.Tests.UI.csproj",
       "packagesPath": "C:\\Users\\samva\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\Tests\\UI\\obj\\",
       "projectStyle": "PackageReference",
@@ -8398,8 +8398,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\Client\\CookingTimer.Client.csproj": {
-              "projectPath": "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\Client\\CookingTimer.Client.csproj"
+            "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\Client\\_BlazorHostedComplete.Client.csproj": {
+              "projectPath": "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\Client\\_BlazorHostedComplete.Client.csproj"
             }
           }
         }

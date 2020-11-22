@@ -1924,66 +1924,66 @@
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
       },
-      "CookingTimer.Client/1.0.0": {
+      "_BlazorHostedComplete.Client/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.1",
         "dependencies": {
-          "CookingTimer.Shared": "1.0.0",
           "Microsoft.AspNetCore.Components.WebAssembly": "3.2.1",
           "Microsoft.AspNetCore.Components.WebAssembly.Authentication": "3.2.1",
           "Microsoft.Extensions.Http": "3.1.6",
-          "System.Net.Http.Json": "3.2.0"
+          "System.Net.Http.Json": "3.2.0",
+          "_BlazorHostedComplete.Shared": "1.0.0"
         },
         "compile": {
-          "bin/placeholder/CookingTimer.Client.dll": {}
+          "bin/placeholder/_BlazorHostedComplete.Client.dll": {}
         },
         "runtime": {
-          "bin/placeholder/CookingTimer.Client.dll": {}
+          "bin/placeholder/_BlazorHostedComplete.Client.dll": {}
         }
       },
-      "CookingTimer.Data/1.0.0": {
+      "_BlazorHostedComplete.Data/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
-          "CookingTimer.Shared": "1.0.0",
           "Microsoft.AspNetCore.ApiAuthorization.IdentityServer": "3.1.6",
           "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": "3.1.6",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "3.1.6",
           "Microsoft.EntityFrameworkCore.SqlServer": "3.1.6",
-          "Microsoft.EntityFrameworkCore.Tools": "3.1.6"
+          "Microsoft.EntityFrameworkCore.Tools": "3.1.6",
+          "_BlazorHostedComplete.Shared": "1.0.0"
         },
         "compile": {
-          "bin/placeholder/CookingTimer.Data.dll": {}
+          "bin/placeholder/_BlazorHostedComplete.Data.dll": {}
         },
         "runtime": {
-          "bin/placeholder/CookingTimer.Data.dll": {}
+          "bin/placeholder/_BlazorHostedComplete.Data.dll": {}
         }
       },
-      "CookingTimer.ServiceLayer/1.0.0": {
+      "_BlazorHostedComplete.ServiceLayer/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
-          "CookingTimer.Data": "1.0.0",
-          "CookingTimer.Shared": "1.0.0"
+          "_BlazorHostedComplete.Data": "1.0.0",
+          "_BlazorHostedComplete.Shared": "1.0.0"
         },
         "compile": {
-          "bin/placeholder/CookingTimer.ServiceLayer.dll": {}
+          "bin/placeholder/_BlazorHostedComplete.ServiceLayer.dll": {}
         },
         "runtime": {
-          "bin/placeholder/CookingTimer.ServiceLayer.dll": {}
+          "bin/placeholder/_BlazorHostedComplete.ServiceLayer.dll": {}
         }
       },
-      "CookingTimer.Shared/1.0.0": {
+      "_BlazorHostedComplete.Shared/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.1",
         "dependencies": {
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "3.1.6"
         },
         "compile": {
-          "bin/placeholder/CookingTimer.Shared.dll": {}
+          "bin/placeholder/_BlazorHostedComplete.Shared.dll": {}
         },
         "runtime": {
-          "bin/placeholder/CookingTimer.Shared.dll": {}
+          "bin/placeholder/_BlazorHostedComplete.Shared.dll": {}
         }
       }
     }
@@ -6797,40 +6797,40 @@
         "system.xml.xmlserializer.nuspec"
       ]
     },
-    "CookingTimer.Client/1.0.0": {
+    "_BlazorHostedComplete.Client/1.0.0": {
       "type": "project",
-      "path": "../Client/CookingTimer.Client.csproj",
-      "msbuildProject": "../Client/CookingTimer.Client.csproj"
+      "path": "../Client/_BlazorHostedComplete.Client.csproj",
+      "msbuildProject": "../Client/_BlazorHostedComplete.Client.csproj"
     },
-    "CookingTimer.Data/1.0.0": {
+    "_BlazorHostedComplete.Data/1.0.0": {
       "type": "project",
-      "path": "../Data/CookingTimer.Data.csproj",
-      "msbuildProject": "../Data/CookingTimer.Data.csproj"
+      "path": "../Data/_BlazorHostedComplete.Data.csproj",
+      "msbuildProject": "../Data/_BlazorHostedComplete.Data.csproj"
     },
-    "CookingTimer.ServiceLayer/1.0.0": {
+    "_BlazorHostedComplete.ServiceLayer/1.0.0": {
       "type": "project",
-      "path": "../ServiceLayer/CookingTimer.ServiceLayer.csproj",
-      "msbuildProject": "../ServiceLayer/CookingTimer.ServiceLayer.csproj"
+      "path": "../ServiceLayer/_BlazorHostedComplete.ServiceLayer.csproj",
+      "msbuildProject": "../ServiceLayer/_BlazorHostedComplete.ServiceLayer.csproj"
     },
-    "CookingTimer.Shared/1.0.0": {
+    "_BlazorHostedComplete.Shared/1.0.0": {
       "type": "project",
-      "path": "../Shared/CookingTimer.Shared.csproj",
-      "msbuildProject": "../Shared/CookingTimer.Shared.csproj"
+      "path": "../Shared/_BlazorHostedComplete.Shared.csproj",
+      "msbuildProject": "../Shared/_BlazorHostedComplete.Shared.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "CookingTimer.Client >= 1.0.0",
-      "CookingTimer.Data >= 1.0.0",
-      "CookingTimer.ServiceLayer >= 1.0.0",
-      "CookingTimer.Shared >= 1.0.0",
       "Microsoft.AspNetCore.ApiAuthorization.IdentityServer >= 3.1.6",
       "Microsoft.AspNetCore.Components.WebAssembly.Server >= 3.2.1",
       "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore >= 3.1.6",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 3.1.6",
       "Microsoft.AspNetCore.Identity.UI >= 3.1.6",
       "Microsoft.EntityFrameworkCore.SqlServer >= 3.1.6",
-      "Microsoft.EntityFrameworkCore.Tools >= 3.1.6"
+      "Microsoft.EntityFrameworkCore.Tools >= 3.1.6",
+      "_BlazorHostedComplete.Client >= 1.0.0",
+      "_BlazorHostedComplete.Data >= 1.0.0",
+      "_BlazorHostedComplete.ServiceLayer >= 1.0.0",
+      "_BlazorHostedComplete.Shared >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -6839,9 +6839,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\Server\\CookingTimer.Server.csproj",
-      "projectName": "CookingTimer.Server",
-      "projectPath": "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\Server\\CookingTimer.Server.csproj",
+      "projectUniqueName": "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\Server\\_BlazorHostedComplete.Server.csproj",
+      "projectName": "_BlazorHostedComplete.Server",
+      "projectPath": "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\Server\\_BlazorHostedComplete.Server.csproj",
       "packagesPath": "C:\\Users\\samva\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\Server\\obj\\",
       "projectStyle": "PackageReference",
@@ -6859,17 +6859,17 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\Client\\CookingTimer.Client.csproj": {
-              "projectPath": "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\Client\\CookingTimer.Client.csproj"
+            "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\Client\\_BlazorHostedComplete.Client.csproj": {
+              "projectPath": "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\Client\\_BlazorHostedComplete.Client.csproj"
             },
-            "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\Data\\CookingTimer.Data.csproj": {
-              "projectPath": "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\Data\\CookingTimer.Data.csproj"
+            "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\Data\\_BlazorHostedComplete.Data.csproj": {
+              "projectPath": "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\Data\\_BlazorHostedComplete.Data.csproj"
             },
-            "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\ServiceLayer\\CookingTimer.ServiceLayer.csproj": {
-              "projectPath": "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\ServiceLayer\\CookingTimer.ServiceLayer.csproj"
+            "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\ServiceLayer\\_BlazorHostedComplete.ServiceLayer.csproj": {
+              "projectPath": "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\ServiceLayer\\_BlazorHostedComplete.ServiceLayer.csproj"
             },
-            "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\Shared\\CookingTimer.Shared.csproj": {
-              "projectPath": "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\Shared\\CookingTimer.Shared.csproj"
+            "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\Shared\\_BlazorHostedComplete.Shared.csproj": {
+              "projectPath": "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\Shared\\_BlazorHostedComplete.Shared.csproj"
             }
           }
         }

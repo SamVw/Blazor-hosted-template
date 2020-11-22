@@ -2,23 +2,23 @@
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.0.0
 MinimumVisualStudioVersion = 16.0.0.0
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CookingTimer.Server", "Server\CookingTimer.Server.csproj", "{599DC32D-D94E-4505-ACF0-7AFCCA905E70}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_BlazorHostedComplete.Server", "Server\_BlazorHostedComplete.Server.csproj", "{599DC32D-D94E-4505-ACF0-7AFCCA905E70}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CookingTimer.Client", "Client\CookingTimer.Client.csproj", "{EE6617A3-E66E-4CCE-BF75-B0309F446A3F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_BlazorHostedComplete.Client", "Client\_BlazorHostedComplete.Client.csproj", "{EE6617A3-E66E-4CCE-BF75-B0309F446A3F}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CookingTimer.Shared", "Shared\CookingTimer.Shared.csproj", "{C515E095-9D5E-418C-AC1F-08B945A72207}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_BlazorHostedComplete.Shared", "Shared\_BlazorHostedComplete.Shared.csproj", "{C515E095-9D5E-418C-AC1F-08B945A72207}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CookingTimer.ServiceLayer", "ServiceLayer\CookingTimer.ServiceLayer.csproj", "{B63C738A-439B-40C1-A369-BF311F4A5FF2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_BlazorHostedComplete.ServiceLayer", "ServiceLayer\_BlazorHostedComplete.ServiceLayer.csproj", "{B63C738A-439B-40C1-A369-BF311F4A5FF2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CookingTimer.Data", "Data\CookingTimer.Data.csproj", "{5EE26E3C-8941-470D-B3FC-D8235BC58781}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_BlazorHostedComplete.Data", "Data\_BlazorHostedComplete.Data.csproj", "{5EE26E3C-8941-470D-B3FC-D8235BC58781}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{F9E80B8E-1ABE-4D09-927E-EDC932513E28}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CookingTimer.Tests.UI", "Tests\UI\CookingTimer.Tests.UI.csproj", "{26E91199-48E1-4A9A-8F2F-98D67FD34695}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_BlazorHostedComplete.Tests.UI", "Tests\UI\_BlazorHostedComplete.Tests.UI.csproj", "{26E91199-48E1-4A9A-8F2F-98D67FD34695}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CookingTimer.Tests.Unit", "Tests\Unit\CookingTimer.Tests.Unit.csproj", "{AF1D782D-8391-4E37-BFA1-E59F1A91D38E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_BlazorHostedComplete.Tests.Unit", "Tests\Unit\_BlazorHostedComplete.Tests.Unit.csproj", "{AF1D782D-8391-4E37-BFA1-E59F1A91D38E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CookingTimer.Tests.Integration", "Tests\Integration\CookingTimer.Tests.Integration.csproj", "{1C4960A9-3586-4AE2-8908-DE5C6F77644A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_BlazorHostedComplete.Tests.Integration", "Tests\Integration\_BlazorHostedComplete.Tests.Integration.csproj", "{1C4960A9-3586-4AE2-8908-DE5C6F77644A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

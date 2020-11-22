@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zHMCpeKpfJtapwdmvZVbC8ClipoHtDI57rsSbKbtHisVTzfAhPp3CmexL4zrnQQ25MIDVLquru4r8ywadMZ//A==",
+  "dgSpecHash": "jYUJmgrdMBjqy2yxmI/O+ULH1x1th0WC1P4jZomS7WPyy5TrWWrUoxlUDOWwrNEFlm/c+l172eqPNrine/s3Rw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\Client\\CookingTimer.Client.csproj",
+  "projectFilePath": "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\Client\\_BlazorHostedComplete.Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\samva\\.nuget\\packages\\microsoft.aspnetcore.authorization\\3.1.6\\microsoft.aspnetcore.authorization.3.1.6.nupkg.sha512",
     "C:\\Users\\samva\\.nuget\\packages\\microsoft.aspnetcore.components\\3.1.6\\microsoft.aspnetcore.components.3.1.6.nupkg.sha512",

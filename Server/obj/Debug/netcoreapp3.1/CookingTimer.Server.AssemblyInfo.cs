@@ -12,7 +12,7 @@ using System;
 using System.Reflection;
 
 [assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap4")]
-[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("CookingTimer.Server-A5AF3957-F0FB-44B3-9E03-10B373F556FD")]
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("_BlazorHostedComplete.Server-A5AF3957-F0FB-44B3-9E03-10B373F556FD")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("CookingTimer.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]

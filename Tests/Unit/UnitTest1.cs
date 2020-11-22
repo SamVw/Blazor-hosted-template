@@ -1,7 +1,7 @@
 using System;
 using Xunit;
 
-namespace CookingTimer.Tests.Unit
+namespace _BlazorHostedComplete.Tests.Unit
 {
     public class UnitTest1
     {

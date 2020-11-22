@@ -1,9 +1,9 @@
 {
   "FilesToCompress": [
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\0PlY9X24jTPduelQAqfbsMhT-F6A-npoOUb8ppQ8ssw=.hash",
-      "Source": "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\CookingTimer.Client.dll",
-      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/CookingTimer.Client.dll.br"
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\XmIPm--Bwg3Y9BGRVbT1KBStQdxiDU3IwEafZJJ7hC0=.hash",
+      "Source": "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\_BlazorHostedComplete.Client.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/_BlazorHostedComplete.Client.dll.br"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\99dseBOagY3mzu5Y8Eqm8gRI_o8QbbCp7R2Ew9bQ_5E=.hash",
@@ -191,9 +191,9 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Primitives.dll.br"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\acmWGbDBPAJqV4VJAevbMmXqwUdbSf_nfnIM4HEQ_mo=.hash",
-      "Source": "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\CookingTimer.Shared.dll",
-      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/CookingTimer.Shared.dll.br"
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\xfH0hy3GujUOYnJST2CC4FJMOXKTQclqL9yRFq3oXMU=.hash",
+      "Source": "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\_BlazorHostedComplete.Shared.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/_BlazorHostedComplete.Shared.dll.br"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\fuDHEKCRLHaKd9z3ghw5GMczZG77h0G6aixH1LvYp84=.hash",
@@ -311,14 +311,14 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll.br"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\L2VNXVqnIjQLaXVEklSu-SXDEC4SVImh3IGcjf89di0=.hash",
-      "Source": "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\CookingTimer.Client.pdb",
-      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/CookingTimer.Client.pdb.br"
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\5r21XAivae4VORDARucuQIFfxJlG8IWSnFdSb6uOrRY=.hash",
+      "Source": "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\_BlazorHostedComplete.Client.pdb",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/_BlazorHostedComplete.Client.pdb.br"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\0MYe5q51h0zwqUpAkrC1Lr1mKspZBA7Cb7OQ-QreU9Q=.hash",
-      "Source": "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\CookingTimer.Shared.pdb",
-      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/CookingTimer.Shared.pdb.br"
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\dAZ31_mrPqI7e_dk_uMGmtm8PiaIxL3Xmw6HREGRpNg=.hash",
+      "Source": "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\_BlazorHostedComplete.Shared.pdb",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/_BlazorHostedComplete.Shared.pdb.br"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=.hash",
@@ -341,12 +341,12 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.webassembly.js.br"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\BxAd60YrJDp9nDVgHupQiLf-_0ICslEYzycmSTIUk3c=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\BDBHfXrH1qRXFmzi-rAYUfPe3PNwWMC0M_VGbwuMtic=.hash",
       "Source": "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\Client\\obj\\Debug\\netstandard2.1\\blazor\\blazor.boot.json",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.boot.json.br"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\hczj92AqnWjJN2kzY86wis-UG9YFLrFsibmDXsVx1to=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\HreF0wDjRoBtxhiJ1fNJJLPK0dFr43q1uH9nEROJkq8=.hash",
       "Source": "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\Client\\obj\\Debug\\netstandard2.1\\blazor\\service-worker-assets.js",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\service-worker-assets.js.br"
     }

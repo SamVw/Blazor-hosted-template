@@ -4,7 +4,7 @@ using Bunit;
 using Bunit.TestDoubles;
 using static Bunit.ComponentParameterFactory;
 
-namespace CookingTimer.Tests.UI
+namespace _BlazorHostedComplete.Tests.UI
 {
     /// <summary>
     /// These tests are written entirely in C#.

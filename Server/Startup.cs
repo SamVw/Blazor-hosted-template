@@ -11,10 +11,10 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using System.Linq;
-using CookingTimer.Data.Data;
-using CookingTimer.Shared.Models;
+using _BlazorHostedComplete.Data.Data;
+using _BlazorHostedComplete.Shared.Models;
 
-namespace CookingTimer.Server
+namespace _BlazorHostedComplete.Server
 {
     public class Startup
     {

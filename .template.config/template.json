@@ -1,0 +1,16 @@
+{
+    "author": "Sam Vanwelsenaere",
+    "classifications": [
+        "Web",
+        "Blazor",
+        "WebAssembly",
+        "Complete"
+    ],
+    "name": "Blazor Wasm Hosted Complete App",
+    "tags": {
+        "language": "C#"
+    },
+    "identity": "SamVanwelsenaere.BlazorHostedComplete",
+    "shortName": "blazorhostedcomplete",
+    "sourceName": "_BlazorHostedComplete"
+}

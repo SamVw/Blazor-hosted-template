@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "f+q2E1oHsYa3M7diqetzCtB7b0GkfGJ6T8ka1rIVuYr5auboGC0PCKjBzHC+fjoOQ7vDYFgBiodZttesCTFCmQ==",
+  "dgSpecHash": "e5/yDtfL6UfcZ8E3CAd8BCmQdsTyrJetPs5rRDAcKBzV7v53LQUNMCg/9H+pjAd3jJtbNL/mBPr1Drpci+YbOA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\Tests\\UI\\CookingTimer.Tests.UI.csproj",
+  "projectFilePath": "C:\\Users\\samva\\Documents\\projects\\CookingTimer\\Tests\\UI\\_BlazorHostedComplete.Tests.UI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\samva\\.nuget\\packages\\anglesharp\\0.14.0\\anglesharp.0.14.0.nupkg.sha512",
     "C:\\Users\\samva\\.nuget\\packages\\anglesharp.css\\0.14.2\\anglesharp.css.0.14.2.nupkg.sha512",

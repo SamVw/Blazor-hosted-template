@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CookingTimer.Data
+namespace _BlazorHostedComplete.Data
 {
     public class Class1
     {

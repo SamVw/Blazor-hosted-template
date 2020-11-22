@@ -1,6 +1,6 @@
 {
-  "name": "CookingTimer",
-  "short_name": "CookingTimer",
+  "name": "_BlazorHostedComplete",
+  "short_name": "_BlazorHostedComplete",
   "start_url": "./",
   "display": "standalone",
   "background_color": "#ffffff",
