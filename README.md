@@ -2,6 +2,7 @@
 
 This project contains a template for a blazor hosted web app with integrated authentication.
 
+## Layers
 - Blazor UI
 - Server (Asp.Net WebApi)
 - Service layer
@@ -9,6 +10,22 @@ This project contains a template for a blazor hosted web app with integrated aut
 - UI tests
 - Unit tests
 - Integration tests
+
+# Install
+
+`git clone https://...`
+
+`cd .\Blazor-hosted-template`
+
+`dotnet new -i .\`
+
+# Create new project
+
+`mkdir MyNewAwesomeProject`
+
+`cd .\MyNewAwesomeProject`
+
+`dotnet new blazorhostedcomplete -n MyNewAwesomeProject`
 
 
 # Run sql server locally with docker
